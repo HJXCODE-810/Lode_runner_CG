@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\lenovo\source\repos\lode_runner\lode_runner\main.cpp(518,19): warning C4018: '>=': signed/unsigned mismatch
+  lode_runner.vcxproj -> C:\Users\lenovo\source\repos\lode_runner\Debug\lode_runner.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
